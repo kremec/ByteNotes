@@ -1,3 +1,10 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "Files",
+  "userIgnoreFilters": [
+    "//"
+  ],
+  "showInlineTitle": true
 }
