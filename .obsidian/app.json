@@ -6,5 +6,8 @@
   "userIgnoreFilters": [
     "//"
   ],
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "livePreview": true,
+  "spellcheck": false,
+  "alwaysUpdateLinks": true
 }

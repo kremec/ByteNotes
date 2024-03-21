@@ -4,6 +4,7 @@
   "translucency": false,
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "Table-Centre"
+    "Table-Centre",
+    "CenterMermaidGraphs"
   ]
 }
